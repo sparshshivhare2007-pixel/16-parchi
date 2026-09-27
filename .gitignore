@@ -1,0 +1,30 @@
+# Env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Database
+data/*.db
+data/*.sqlite3
+
+# Session files (Telethon .session)
+*.session
+*.session-journal
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
